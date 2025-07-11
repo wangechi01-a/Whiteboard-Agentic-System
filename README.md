@@ -1,5 +1,5 @@
 # Agentic Whiteboard Application
-This is an intelligent whiteboard application that combines traditional drawing tools with AI agents powered by Google Gemini for assistance and document analysis.
+I created this intelligent whiteboard tool to empower remote teams, educators, and learners with a collaborative space that blends traditional drawing with AI Assistant support. By integrating agents like a visual analyzer, document assistant, and tutor, the tool helps users brainstorm, explain, and structure ideas more efficiently—making meetings, planning sessions, and study workflows smarter and more interactive.
 ## Features
 
 ### Core Whiteboard Features
