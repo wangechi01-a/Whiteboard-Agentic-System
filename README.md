@@ -1,5 +1,5 @@
 # Agentic Whiteboard Application
-An intelligent whiteboard application that combines traditional drawing tools with AI agents powered by Google Gemini for assistance and document analysis.
+This is an intelligent whiteboard application that combines traditional drawing tools with AI agents powered by Google Gemini for assistance and document analysis.
 ## Features
 
 ### Core Whiteboard Features
@@ -78,13 +78,6 @@ python app.py
 - "Summarize the key points from the loaded document"
 - "Help me understand page 3 of the PDF"
 
-## Architecture
-
-### Core Components
-- **app.py**: Main application with UI and drawing functionality
-- **agents.py**: LangGraph-based multi-agent AI system
-- **requirements.txt**: Python dependencies
-
 ### AI System
 - **LangGraph Framework**: Manages agent workflows and routing
 - **Google Gemini API**: Provides intelligent responses
@@ -92,10 +85,3 @@ python app.py
 - **Fallback System**: Built-in tools activate if API fails
 - **Memory Integration**: Maintains conversation context
 
-### Dependencies
-- **tkinter**: GUI framework
-- **PyPDF2**: PDF document processing
-- **PIL**: Image handling and screenshots
-- **langchain-google-genai**: Google Gemini integration
-- **langgraph**: Agent workflow management
-- **python-dotenv**: Environment variable management
